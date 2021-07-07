@@ -222,18 +222,15 @@ form {
     height: 100px;
     background-size: 100%;
   }
+
   .submit-btn {
     width: 68.8%;
     color: #fff;
-    margin: 10% auto 0;
-    background-color: #1fc7a6;
-    height: 15%;
-    text-align: center;
-    line-height: 70px;
-    font-size: 18px;
-    font-weight: 100;
+    margin: 5% auto 0;
+    height: 7.5%;
+    line-height: 50px;
+    font-size: 15px;
+    font-weight: 90;
     border-radius: 18px;
-    color: #fff;
-    cursor: pointer;
   }
 }
