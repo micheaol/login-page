@@ -177,16 +177,5 @@ form {
 }
 /*End of 862 viewport Adding media query to the site. */
 
-@media screen and (max-weight: 750px) {
-    .form-flex {
-        display: inline;
-        position: absolute;
-        padding-left: 32px;
-        /* box-sizing: border-box; */
-        /* width: 25vw; */
-        /* padding-top: 10%; */
-      }
-      .right-img h4 {
-        display: none;
-      }
-    }
+@media screen and (max-width: 771px) {
+}
