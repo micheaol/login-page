@@ -7,6 +7,7 @@
 body {
   font-family: 'Lato', sans-serif, Roboto, system, Helvetica, Arial, Tahoma,
     PingFang SC, Hiragino Sans GB, Lantinghei SC, Microsoft YaHei, sans-serif;
+    height: 100%;
 }
 main {
   /* height: 100vh; */
@@ -178,21 +179,21 @@ form {
 /*End of 862 viewport Adding media query to the site. */
 
 @media screen and (max-width: 771px) {
-    h4 {
-        width: 95%;
-        position: absolute;
-        top: 55%;
-        right: 20%;
-        color: aliceblue;
-        font-weight: 300px;
-        line-height: 30px;
-        font-size: 14px;
-        margin-bottom: 8%;
-        margin-top: 23%;
-        text-align: center;
-      }
-      
-.user-class {
+  h4 {
+    width: 95%;
+    position: absolute;
+    top: 55%;
+    right: 20%;
+    color: aliceblue;
+    font-weight: 300px;
+    line-height: 30px;
+    font-size: 14px;
+    margin-bottom: 100px;
+    margin-top: 23%;
+    text-align: center;
+  }
+
+  .user-class {
     position: relative;
     right: 19%;
     margin-bottom: 24px;
@@ -201,13 +202,38 @@ form {
     /* background-color: #47516f !important; */
   }
   .forget {
-    margin-top: 50px;
+    margin-top: 80px;
     margin-right: 55px;
     font-size: 16px;
     line-height: 19px;
     color: #f5f5f6;
     text-align: right;
     font-weight: 200px;
+    cursor: pointer;
+  }
+
+  .hi {
+    position: absolute;
+    bottom: 90%;
+    color: aliceblue;
+    right: 85%;
+    background-image: url('../images/hi.png');
+    width: 100px;
+    height: 100px;
+    background-size: 100%;
+  }
+  .submit-btn {
+    width: 68.8%;
+    color: #fff;
+    margin: 10% auto 0;
+    background-color: #1fc7a6;
+    height: 15%;
+    text-align: center;
+    line-height: 70px;
+    font-size: 18px;
+    font-weight: 100;
+    border-radius: 18px;
+    color: #fff;
     cursor: pointer;
   }
 }
