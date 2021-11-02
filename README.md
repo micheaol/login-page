@@ -2,7 +2,7 @@
 
 This is a login user interface.
 
-![alt text](https://github.com/micheaol/to-do-list-app/blob/interactive-list/src/img.PNG)
+![screenshot](https://user-images.githubusercontent.com/10332499/139920625-5cb47489-eeae-4efc-b7db-7437736e1037.PNG)
 
 
 Additional description about the project and its features.
@@ -22,23 +22,8 @@ Additional description about the project and its features.
  ## Live Demo
 
 [Live Demo Link](https://micheaol.github.io/login-page/)
-
-To get a local copy up and running follow these simple example steps.
-                
-   
-## Prerequisites 
-
-## Major requirement
-    -You must have Node.js install on your local machine
-    -You must know the basic of Javascrit, CSS, and HTML
-    
-## Setup
-    -npm install
-    -Clone the repository to your local machine.
-    -npm install webpack webpack-cli --save-dev
-    -run npm start- To start the app
-    -Enter the tasks and click the icon to add.
-
+            
+  
 
 ## Authors
 
