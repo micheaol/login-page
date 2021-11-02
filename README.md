@@ -21,7 +21,7 @@ Additional description about the project and its features.
     
  ## Live Demo
 
-[Live Demo Link](https://micheaol-to-do-app.netlify.app/)
+[Live Demo Link](https://micheaol.github.io/login-page/)
 
 To get a local copy up and running follow these simple example steps.
                 
